@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  a costume shop.
 ---
 
 ```{r setup, include=FALSE}

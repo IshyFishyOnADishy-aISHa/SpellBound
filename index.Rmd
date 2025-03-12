@@ -1,6 +1,6 @@
 ---
 title: "*SpellBound*"
-image: "images/spellbound.PNG"{width=30%}
+image: "images/spellbound.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: 'https://twitter.com/R_Girls_School target="_blank"'
@@ -9,8 +9,8 @@ links:
   - label: '<i class="fas fa-envelope"></i> Contact Us'
     url: "mailto:aisha.rizwan_23@greenoak.bham.sch.uk"
 output:
-  postcards::trestles
-site: distill: :distill_website
+   postcards::trestles
+site: distill::distill_website
 
 ---
 
